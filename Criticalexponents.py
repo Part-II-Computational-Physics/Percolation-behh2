@@ -137,7 +137,7 @@ class lattice():
         return largest_cluster_size, average_cluster_size
     
 
-Lattice_sizes = [10, 30, 50, 70, 90, 100, 120, 150, 200, 250, 300, 400, 500]
+Lattice_sizes = [10, 30, 50, 70, 90, 100, 120, 150, 200, 250, 300]
 
 #Find percolation strength, P_inf, at p=p_c for different lattice sizes
 #Find average cluster size, S, at p=p_c for different lattice sizes
